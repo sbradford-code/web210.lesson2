@@ -1,0 +1,77 @@
+/*
+COLOR PALETTE
+palegoldenrod
+steelblue
+navy
+*/
+body {
+    background-color: palegoldenrod;
+    color: steelblue;
+    margin: 0;
+    padding: o;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+header {
+    background-color: paleturquoise;
+    margin: 
+}
+.project {
+    background-color: paleturquoise;
+}
+.work1 {
+    background-color: lightblue;
+}
+
+
+.school {
+    background-color: powderblue;
+}
+img {
+    width: 300px;
+   
+}
+
+h1 {
+    color: navy;
+    font-size: 80px;
+
+}
+
+h2 {
+    color:navy;
+    font-size: 45px;
+}
+
+hi, h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+    margin: 0;
+}
+h3 {
+    color:navy;
+}
+a {
+  color: lightcoral;
+  background-color: darkolivegreen;
+  padding: 8px;
+  border-radius: 4px;
+}
+a:hover {
+    text-decoration: none;
+    background: rgba(47, 48, 97, 80%);
+}
+
+footer {
+    text-align: center;
+}
+.content-wrap {
+    width:900px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+@media screen and (min-width:750px)
+
