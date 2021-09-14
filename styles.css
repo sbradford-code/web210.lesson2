@@ -8,7 +8,7 @@ body {
     background-color: palegoldenrod;
     color: steelblue;
     margin: 0;
-    padding: o;
+    padding: 0;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
     line-height: 1.5;
@@ -16,7 +16,7 @@ body {
 
 header {
     background-color: paleturquoise;
-    margin: 
+    margin: 4px;
 }
 .project {
     background-color: paleturquoise;
@@ -28,6 +28,7 @@ header {
 
 .school {
     background-color: powderblue;
+    padding-left: 3cm;
 }
 img {
     width: 300px;
@@ -43,9 +44,10 @@ h1 {
 h2 {
     color:navy;
     font-size: 45px;
+    text-shadow: 2px 2px gray;
 }
 
-hi, h2 {
+h1, h2 {
     font-family: 'Caveat', cursive;
     font-weight: 400;
     margin: 0;
@@ -66,6 +68,13 @@ a:hover {
 
 footer {
     text-align: center;
+}
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    padding: 10px 10px 10px 10px;
 }
 .content-wrap {
     width:900px;
